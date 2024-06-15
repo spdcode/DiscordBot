@@ -19,10 +19,10 @@ The COVID Searcher was inspired by the way the Taiwan Government and news outlet
 So basically when you type the command, the Discord bot fetches the latest data from an API, formats the information into an embed message, and sends it to the Discord channel. This allows users to quickly and easily get up-to-date COVID-19 case information for any country with a single command.
 
 **The command**
-![image](https://cdn.discordapp.com/attachments/957959164079013919/1240364221741400214/image.png?ex=66464ab3&is=6644f933&hm=5b45830e9f9a52dddbbd637fd51ff7b2d42fa0812e33b1bff08bb806e7942d5c&)
+![image](https://i.imgur.com/GWRvCYh.png)
 
 **Result**
-![image](https://cdn.discordapp.com/attachments/957959164079013919/1240364263986565181/image.png?ex=66464abd&is=6644f93d&hm=558d5092fea34b00bb48b774979041774f5be8a62a1f07c771d77be349f7ffc9&)
+![image](https://i.imgur.com/bw6QkUV.png)
 
 
 ## Dependencies
